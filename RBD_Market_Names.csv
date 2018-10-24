@@ -1,0 +1,306 @@
+adm1_gaulcode,adm1_name,adm2_gaulcode,adm2_name,mkt_id,mkt_name
+40277,Cascades,12117,Comoe,129,Banfora
+40286,Plateau Central,12130,Kourweogo,130,Bousse
+40288,Sud-ouest,12114,Bougouriba,131,Diebougou
+40287,Sahel,12147,Soum,132,Djibo
+40287,Sahel,12145,Seno,133,Dori
+40283,Est,12120,Gourma,134,Fada N'Gourma
+40287,Sahel,12140,Oudalan,135,Gorom Gorom
+40285,Nord,12154,Zondoma,136,Gourcy
+40280,Centre-nord,12111,Bam,137,Kongoussi
+40281,Centre-ouest,12116,Boulkiemde,138,Koudougou
+40278,Centre,12123,Kadiogo,139,Ouagadougo (Sankaryare)
+40279,Centre-est,12115,Boulgou,140,Tenkodogo
+40276,Boucle Du Mouhoun,12148,Sourou,141,Tougan
+40283,Est,12149,Tapoa,1043,Namouno (CBM)
+40279,Centre-est,0,NA,1802,Pouytenga
+40280,Centre-nord,0,NA,1803,Kaya
+40281,Centre-ouest,0,NA,1804,Leo
+40282,Centre-sud,0,NA,1805,Guelwongo
+40284,Hauts-bassins,0,NA,1806,Nieneta
+40276,Boucle Du Mouhoun,0,NA,1892,Dedougou
+40285,Nord,0,NA,1893,Ouahigouya
+12927,Ouaddai,65501,Kachimel-abeche,228,Abeche
+875,Lac,65415,Bol,229,Bol
+12915,Kanem,65670,Sultanat,230,Mao
+873,Guera,65428,Dadjo-i,231,Mongo
+12918,Logone Oriental,65585,Mbaikoro,232,Moundou
+12914,Barl El Gazal,65623,Moussoro,233,Moussoro
+12912,Hadjer Lamis,65629,Ndjamena,234,Ndjamena
+12923,Barh Koh,65663,Sarh,235,Sarh
+12918,Logone Oriental,65479,Gore,236,Gore
+881,Salamat,65375,Barh-azoum-am-timan,1962,Am Timan
+12905,Batha Ouest,0,NA,2279,Ati
+12904,Batha Est,0,NA,2280,Oum Hadjer
+12924,Lac Iro,65550,Kyabe,2281,Kyabe
+12925,Mandoul,65546,Koumra,2282,Koumra
+12925,Mandoul,65604,Moissala,2283,Moissala
+12925,Mandoul,65652,Peni-tchad,2284,Peni
+12923,Barh Koh,65577,Maro,2285,Maro
+881,Salamat,65691,Yalnas-abou-deia,2286,Aboudeia
+12910,Baguirmi,65423,Bousso,2287,Bousso
+12930,Tandjile Est,65552,Lai,2289,Lai
+12928,Sila,65489,Goz-beida,2290,Goz Beida
+12915,Kanem,65639,Nokou,2291,Nokou
+876,Logone Occidental,65395,Benoye,2292,Benoye
+870,Biltine,0,NA,2294,Biltine
+12912,Hadjer Lamis,65579,Massakory,2295,Massakory
+12911,Daraba,65414,Bokoro/tania,2296,Bokoro
+12915,Kanem,65636,Ngouri,2297,Ngouri
+876,Logone Occidental,65387,Beinamar,2298,Mbainamar
+12912,Hadjer Lamis,65562,Madiago,2299,Mandelia
+870,Biltine,65523,Kobe-sud,2300,Iriba
+12928,Sila,65489,Goz-beida,2301,Amdam
+12927,Ouaddai,65537,Korio,2302,Abdi
+12918,Logone Oriental,65585,Mbaikoro,2303,Mbaibokoum
+1927,Gao,19374,Gao,248,Gao
+1928,Kayes,19378,Kayes,249,Kayes Centre
+1929,Kidal,19384,Kidal,250,Kidal
+1930,Koulikoro,19392,Koulikoro,251,Koulikoro Ba
+1931,Mopti,19399,Mopti,252,Mopti Digue
+1926,Bamako,81878,$Bamako,253,Niarela
+1934,Tombouctou,19420,Tombouctou,255,Tombouctou
+1933,Sikasso,19413,Sikasso,256,Sikasso Centre
+1927,Gao,19372,Ansongo,857,Ansongo
+1926,Bamako,81878,$Bamako,858,Badalabougou
+1928,Kayes,19380,Kita,859,Badinko
+1931,Mopti,19394,Bandiagara,860,Bandiagara
+1931,Mopti,19395,Bankass,861,Bankass
+1932,Segou,19403,Bla,862,Bla
+1933,Sikasso,19409,Bougouni,863,Bougouni
+1932,Segou,19405,Niono,864,Diakawere
+1931,Mopti,19395,Bankass,865,Diallassagou
+1926,Bamako,81878,$Bamako,866,Dibida
+1928,Kayes,19377,Diema,867,Diema
+1930,Koulikoro,19388,Dioila,868,Dioila
+1932,Segou,19402,Baroueli,869,Dioro
+1934,Tombouctou,19417,Goundam,870,Dire
+1931,Mopti,19396,Djenne,871,Djenne
+1926,Bamako,81878,$Bamako,872,Djikoroni
+1932,Segou,19405,Niono,873,Dogofri
+1932,Segou,19403,Bla,874,Dougouolo
+1926,Bamako,81878,$Bamako,875,Fadjiguila
+1930,Koulikoro,19390,Kati,876,Faladie
+1930,Koulikoro,19392,Koulikoro,877,Fana
+1932,Segou,19407,Segou,878,Fatine
+1928,Kayes,19378,Kayes,879,Kayes N'Dy
+1928,Kayes,19378,Kayes,880,Kayes Plateau
+1928,Kayes,19380,Kita,881,Kita
+1930,Koulikoro,19392,Koulikoro,882,Koulikoro Gare
+1931,Mopti,19395,Bankass,883,Koulogon
+1933,Sikasso,19409,Bougouni,884,Koumantou
+1933,Sikasso,19415,Yorosso,885,Koury
+1933,Sikasso,19412,Koutiala,886,Koutiala
+1926,Bamako,81878,$Bamako,887,Lafiabougou
+1934,Tombouctou,19419,Niafunke,888,Lere
+1933,Sikasso,19410,Kadiolo,889,Loulouni
+1926,Bamako,81878,$Bamako,890,Magnambougou
+1926,Bamako,81878,$Bamako,891,Medine
+1932,Segou,19404,Macina,892,Monimpebougou
+1931,Mopti,19399,Mopti,893,Mopti Guangal
+1933,Sikasso,19412,Koutiala,894,M'Pessoba
+1930,Koulikoro,19393,Nara,895,Nara
+1926,Bamako,81878,$Bamako,896,Niamakoro
+1932,Segou,19405,Niono,897,Niono
+1928,Kayes,19381,Nioro,898,Nioro
+1926,Bamako,81878,$Bamako,899,Ouolofobougou
+1932,Segou,19406,San,900,San
+1933,Sikasso,19412,Koutiala,901,Segou Centre
+1932,Segou,19407,Segou,902,Segou Chateau
+1932,Segou,19405,Niono,903,Shiango
+1933,Sikasso,19413,Sikasso,904,Sikasso Medine
+1930,Koulikoro,19392,Koulikoro,905,Sirakorola
+1926,Bamako,81878,$Bamako,906,Sogoniko
+1932,Segou,19405,Niono,907,Sokolo
+1934,Tombouctou,19417,Goundam,908,Tonka
+1932,Segou,19403,Bla,909,Touna
+1932,Segou,19404,Macina,911,Macina
+1930,Koulikoro,19390,Kati,1682,Kati
+1930,Koulikoro,19389,Kangaba,1812,Kouremale
+1930,Koulikoro,19390,Kati,1813,Ouelessebougou
+1930,Koulikoro,19391,Kolokani,1814,Kolokani
+1933,Sikasso,19414,Yanfolila,1815,Yanfolila
+1933,Sikasso,19415,Yorosso,1816,Yorosso
+1931,Mopti,19398,Koro,1817,Koro
+1932,Segou,19405,Niono,1818,Kourouma
+1933,Sikasso,19415,Yorosso,1819,Kifosso
+1931,Mopti,19401,Youwarou,1932,Youwarou
+1927,Gao,19375,Menaka,2011,Anderamboukane
+1934,Tombouctou,19418,Gourma-Rharous,2012,Bambara Maoude
+1931,Mopti,19397,Douentza,2013,Boni
+1927,Gao,19373,Bourem,2014,Bourem
+1927,Gao,19374,Gao,2015,Djebock
+1927,Gao,19374,Gao,2016,Forgho
+1927,Gao,19374,Gao,2017,Haoussa Foulane
+1927,Gao,19375,Menaka,2018,Menaka
+1927,Gao,19373,Bourem,2019,Ouani
+1927,Gao,19372,Ansongo,2020,Ouattagouna
+1927,Gao,19373,Bourem,2021,Taboye
+1927,Gao,19373,Bourem,2022,Temera
+1929,Kidal,19385,Tessalit,2023,Tessalit
+1931,Mopti,19400,Tenenkou,2024,Diafarabe
+1931,Mopti,19400,Tenenkou,2025,Diondiori
+1931,Mopti,19397,Douentza,2026,Douentza
+1931,Mopti,19401,Youwarou,2027,Gathie Loumo
+1931,Mopti,19397,Douentza,2028,Hombori
+1931,Mopti,19397,Douentza,2029,Kikara
+1931,Mopti,19400,Tenenkou,2031,Tenenkou
+1931,Mopti,19400,Tenenkou,2032,Toguere Coumbe
+1934,Tombouctou,19418,Gourma-Rharous,2033,Bancoma
+1934,Tombouctou,19420,Tombouctou,2034,Bourem Inaly
+1934,Tombouctou,19417,Goundam,2035,Douekire
+1934,Tombouctou,19419,Niafunke,2036,Gounambougou
+1934,Tombouctou,19417,Goundam,2037,Goundam
+1934,Tombouctou,19418,Gourma-Rharous,2038,Gourma Rharous
+1934,Tombouctou,19419,Niafunke,2039,Niafunke
+1934,Tombouctou,19416,Dire,2040,Sareyamou
+2006,Brakna,19501,Boghe,689,Boghe
+2006,Brakna,19503,Maghta Lahjar,690,Magta-lahjar
+2014,Tagant,19523,Moudjeria,692,Moudjeria
+2013,Nouakchott,19522,Nouakchott,693,Nouakchott
+2008,Gorgol,19505,Kaedi,694,Toufounde-Cive
+2010,Hodh Ech Chargi,19511,Amourj,695,Adel Bagrou
+2004,Adrar,19490,Aoujeft,696,Aoujeft
+2005,Assaba,19497,Kankossa,1357,Kankossa
+2011,Hodh El Gharbi,19520,Tintane,1396,Tentane
+2006,Brakna,19499,Aleg,1612,Aleg
+2004,Adrar,19491,Atar,1613,Atar
+2005,Assaba,19494,Barkeol,1614,Barkeol
+2009,Guidimakha,19510,Selibaby,1615,Djougountourou
+2008,Gorgol,19505,Kaedi,1618,Lexeiba1
+2008,Gorgol,19507,Maghama,1619,Maghama
+2006,Brakna,19502,M'Bagne,1620,Mbagne
+2008,Gorgol,19506,M'Bout,1621,Mbout
+2016,Trarza,19530,Keur Macene,1623,Ndiago
+2010,Hodh Ech Chargi,19514,Nema,1624,Nema
+2007,Dakhlet-Nouadhibou,19504,Nouadhibou,1625,Nouadhibou
+2004,Adrar,19493,#Ouadane,1626,Ouadane
+2009,Guidimakha,19509,Ould Yenge,1627,Ould Yenge
+2009,Guidimakha,19510,Selibaby,1629,Selibaby
+2014,Tagant,19525,Tidjikja,1632,Tidjikja
+2011,Hodh El Gharbi,19520,Tintane,1635,Twil
+2010,Hodh Ech Chargi,19512,Bassikounou,1636,Vassala
+2009,Guidimakha,19510,Selibaby,1637,Wompou
+2015,Tiris-Zemmour,19528,Zoueratt,1638,Zoueiratt
+2208,Tillaberi,22578,Filingue,543,Abala
+2207,Tahoua,22577,Tchin Tabaradene,544,Abalak
+2202,Agadez,22553,Tchighozerine,545,Aderbissinat
+2202,Agadez,22553,Tchighozerine,546,Agadez Commune
+2202,Agadez,22551,Arlit,548,Arlit
+2208,Tillaberi,22583,Tillaberi,549,Ayorou
+2207,Tahoua,22573,Illela,550,Badaguichiri
+2209,Zinder,22588,Tanout,551,Bakin Birgi
+2208,Tillaberi,22582,Tera,553,Bankilare
+2204,Dosso,22557,Birni N'gaoure,554,Birnin Gaoure
+2206,Niamey,22569,Commune 2,556,Bonkaney
+2207,Tahoua,22572,Bouza,557,Bouza
+2205,Maradi,22565,Madarounfa,560,Dan Issa
+2203,Diffa,22554,Diffa,562,Diffa Commune
+2204,Dosso,22558,Dogondoutchi,564,Dogon Kiria
+2204,Dosso,22558,Dogondoutchi,565,Dogondoutchi
+2209,Zinder,22587,Miria,566,Dole
+2204,Dosso,22559,Dosso,567,Dosso Commune
+2209,Zinder,22585,Magaria,568,Dungass
+2208,Tillaberi,22578,Filingue,573,Filingue
+2207,Tahoua,22571,Birni N'konni,574,Galmi
+2205,Maradi,22565,Madarounfa,575,Garare
+2207,Tahoua,22574,Keita,576,Garhanga
+2204,Dosso,22560,Gaya,577,Gaya
+2208,Tillaberi,22582,Tera,578,Gotheye
+2203,Diffa,22555,Maine-soroa,579,Goudoumaria
+2209,Zinder,22584,Goure,580,Goure
+2205,Maradi,22564,Guidan Roumji,581,Guidan Roumdji
+2209,Zinder,22584,Goure,582,Guidiguir
+2206,Niamey,22569,Commune 2,584,Harobanda
+2202,Agadez,22553,Tchighozerine,585,Ingall
+2207,Tahoua,22577,Tchin Tabaradene,588,Kaou
+2207,Tahoua,22572,Bouza,589,Karofane
+2206,Niamey,22569,Commune 2,590,Katako
+2209,Zinder,22584,Goure,591,Kazoe
+2207,Tahoua,22574,Keita,592,Keita
+2208,Tillaberi,22579,Kollo,593,Kirtachi
+2207,Tahoua,22571,Birni N'konni,594,Konni
+2205,Maradi,22563,Dakoro,595,Kornaka
+2209,Zinder,22587,Miria,596,Koundoumaoua
+2204,Dosso,22561,Loga,597,Loga
+2209,Zinder,22587,Miria,598,Magaria
+2203,Diffa,22555,Maine-soroa,600,Maine Soroa
+2208,Tillaberi,22580,Ouallam,601,Mangaize
+2205,Maradi,22565,Madarounfa,602,Maradi Commune
+2209,Zinder,22586,Matamey,603,Matameye
+2205,Maradi,22566,Mayahi,604,Mayahi
+2204,Dosso,22559,Dosso,605,Mokko
+2203,Diffa,22556,N'guigmi,606,Nguigmi
+2208,Tillaberi,22580,Ouallam,607,Ouallam
+2207,Tahoua,22575,Madaoua,608,Ourno
+2205,Maradi,22564,Guidan Roumji,610,Sabon Machi
+2207,Tahoua,22576,Tahoua,613,Tahoua Commune
+2209,Zinder,22588,Tanout,615,Tanout
+2205,Maradi,22562,Aguie,616,Tchadoua
+2207,Tahoua,22577,Tchin Tabaradene,617,Tchintabaraden
+2208,Tillaberi,22582,Tera,618,Tera
+2205,Maradi,22567,Tessaoua,619,Tessaoua
+2208,Tillaberi,22581,Say,622,Torodi
+2207,Tahoua,22576,Tahoua,623,Tounfafi
+2206,Niamey,22569,Commune 2,624,Wadata
+2208,Tillaberi,22578,Filingue,626,Balayara
+2208,Tillaberi,22583,Tillaberi,627,Tillaberi Commune
+2205,Maradi,22563,Dakoro,628,Dakoro
+2207,Tahoua,22577,Tchin Tabaradene,629,Nguel Kolo
+2216,Borno,22709,Mobbar,1040,Damassack (CBM)
+2216,Borno,0,NA,1968,Biu
+2240,Yobe,0,NA,1969,Damaturu
+2216,Borno,0,NA,1979,Maiduguri
+2211,Adamawa,0,NA,1980,Mubi
+2240,Yobe,0,NA,1981,Potiskum
+2643,Tambacounda,25340,Bakel,405,Bakel
+47585,Diourbel,25322,Bambey,406,Bambey
+2645,Ziguinchor,25346,Bignona,407,Bignona
+2636,Dakar,25319,Dakar,408,Castors
+47586,Fatick,25325,Fatick,411,Diakhao
+2640,Kolda,25331,Kolda,412,Diaobe
+47585,Diourbel,25322,Bambey,413,Diourbel
+47586,Fatick,25325,Fatick,414,Fatick
+47586,Fatick,25325,Fatick,415,Gossas
+47587,Louga,25336,Louga,416,Gouille Mbeuth
+1378,$Kaffrine,1380,$Birkilane,417,Kaffrine
+2639,Kaolack,25329,Kaolack,418,Kaolack
+1374,$Kedougou,1397,$Kedougou,419,Kedougou
+47586,Fatick,25326,Foundiougne,420,Keur I. Yacine
+2640,Kolda,25331,Kolda,421,Kolda
+2643,Tambacounda,25342,Tambacounda,423,Kouthiaba
+47587,Louga,25336,Louga,424,Louga
+1378,$Kaffrine,1380,$Birkilane,425,Mabo
+2644,Thies,25343,Mbour,427,Mbafaye
+47586,Fatick,47591,Gossas,428,Mbar
+2643,Tambacounda,25342,Tambacounda,429,Mereto
+47589,Saint louis,47600,Saint louis,430,Mpal
+47587,Louga,25334,Kebemer,431,Ndiagne
+47585,Diourbel,25323,Diourbel,432,Ndindy
+47588,Matam,47593,Kanel,433,Orkodiere
+47588,Matam,47595,Matam,434,Ourossogui
+47586,Fatick,25326,Foundiougne,436,Passy
+2639,Kaolack,25330,Nioro du rip,437,Porokhane
+47587,Louga,25334,Kebemer,438,Sagatta
+2640,Kolda,25331,Kolda,439,Sare Yoba
+47589,Saint louis,47600,Saint louis,440,Saint-Louis
+2643,Tambacounda,25342,Tambacounda,441,Tambacounda
+2636,Dakar,47597,#Pikine,442,Thiaroye
+2644,Thies,25344,Thies,443,Thies
+2644,Thies,25345,Tivaoune,445,Thilmakha
+47588,Matam,47595,Matam,446,Thiodaye
+2636,Dakar,25319,Dakar,447,Tilene
+47585,Diourbel,47596,Mbacke,448,Touba
+2644,Thies,25344,Thies,449,Touba Toul
+2645,Ziguinchor,25348,Ziguinchor,450,Zigiunchor
+2639,Kaolack,25330,Nioro du rip,451,Ndrame Escale
+1376,$Sedhiou,1609,$Sedhiou,452,Sedhiou
+2645,Ziguinchor,25348,Ziguinchor,455,Saint-Maur
+2636,Dakar,25319,Dakar,457,Gueule Tapee
+2639,Kaolack,25329,Kaolack,697,N'Doffane
+1378,$Kaffrine,1380,$Birkilane,698,Birkelane
+2639,Kaolack,25328,#Kaffrine,699,Diama Gadio
+47585,Diourbel,25322,Bambey,700,Sandjara
+1374,$Kedougou,25341,NA,1542,Salemata
+1374,$Kedougou,1397,$Kedougou,1543,Mako
+47586,Fatick,25326,Foundiougne,1544,Missirah
