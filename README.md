@@ -6,4 +6,6 @@ A lot of work needs to go into creating the most appropriate measures from the m
 
 Another problem is the incomplete price data and the decisions of what level to aggregate to.
 
-RIP
+If you dont care about the data wrangling (which still needs work) the CART part is: CART.R
+
+RIP first model
